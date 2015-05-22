@@ -1,6 +1,6 @@
 # Site settings
 #url: "//localhost:4000"   # activate this to test on your localhost
-url: "https://github.com/drwatson84/exchange"
+url: "http://drwatson84.github.io/exchange/"
 author: "BlinkTrade"
 baseurl: ""
 deploy_version: "HEAD"
@@ -9,7 +9,7 @@ exchange: "pakex"
 exchange_logo: "pakex"
 
 default_country_code: "PK"
-blinktrade_broker_id: 12 # 9 is the id for the demo backend. Don't change that if you don't understand what you doing.
+blinktrade_broker_id: 15 # 9 is the id for the demo backend. Don't change that if you don't understand what you doing.
 
 blinktrade_backend_api: "api.blinktrade.com"
 #blinktrade_backend_api: "api.testnet.blinktrade.com"
