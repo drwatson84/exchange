@@ -9,7 +9,7 @@ exchange: "urdubit"
 exchange_logo: "urdubit"
 
 default_country_code: "PK"
-blinktrade_broker_id: 8 # 9 is the id for the demo backend. Don't change that if you don't understand what you doing.
+blinktrade_broker_id: 9 # 9 is the id for the demo backend. Don't change that if you don't understand what you doing.
 
 blinktrade_backend_api: "api.blinktrade.com"
 #blinktrade_backend_api: "api.testnet.blinktrade.com"
